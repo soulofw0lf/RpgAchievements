@@ -1,0 +1,8 @@
+titles:
+  The_Tester:
+    achievement: Test_Achievement
+    description: You_can_be_a_tester_too!!!
+    prefix: false
+    equip command: broadcast @p equipped something
+    unequip command: manudelp @p this.permission
+players:

@@ -1,0 +1,10 @@
+name: RPGAchievements
+main: com.vartala.soulofw0lf.achievements.RPGAchievements
+version: 1.3
+commands:
+    titles:
+        description: Base title command
+        usage: /<titles> [list,set,info]
+    kills:
+        description: Base Kill Command
+        usage: /<kills> [new]
